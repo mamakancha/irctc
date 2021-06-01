@@ -1,0 +1,3 @@
+trainJourneyID,trainJourneyStartTime,trainJourneyEndTime,trainJourneyStartCity,trainJourneyDestinationCity,trainID,availableSeats,status
+"1","2021-06-10 01:10:00","2021-06-10 10:10:00","Chandigarh","Agra","1","10","DELAYED"
+"2","2021-06-10 13:10:00","2021-06-10 15:10:00","Delhi","Meerut","2","10","ON_TIME"
