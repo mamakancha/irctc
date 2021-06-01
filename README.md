@@ -19,4 +19,4 @@ _**Supported APIs:**_
 
 `/booking/getAllBookingsByUser?userID=userID`
 
-`/booking/saveBooking?userID=userID&trainJourneyID=trainJourneyID&totalPrice=totalPrice`
+`/booking/saveBooking?userID=userID&trainJourneyID=trainJourneyID&totalPrice=totalPrice&seats=seats`
